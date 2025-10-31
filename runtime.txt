@@ -1,2 +1,1 @@
-mkdir data
-touch data/collected.json data/sent.json data/subscribers.json
+python-3.12.3
