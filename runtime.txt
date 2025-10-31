@@ -1,0 +1,2 @@
+mkdir data
+touch data/collected.json data/sent.json data/subscribers.json
